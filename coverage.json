@@ -1,1 +1,1 @@
-{}
+{"contracts/ERC20Test.sol":{"l":{"8":3},"path":"/Users/madhurdixit/Desktop/Work/neonTest/contracts/ERC20Test.sol","s":{"1":3},"b":{},"f":{"1":3},"fnMap":{"1":{"name":"constructor","line":7,"loc":{"start":{"line":7,"column":4},"end":{"line":9,"column":4}}}},"statementMap":{"1":{"start":{"line":8,"column":8},"end":{"line":8,"column":52}}},"branchMap":{}}}
