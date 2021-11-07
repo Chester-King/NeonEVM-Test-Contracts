@@ -1,6 +1,3 @@
-const { assert } = require("console");
-const { response } = require("express");
-
 const ERC20Test = artifacts.require("ERC20Test");
 
 module.exports = async function(deployer) {
