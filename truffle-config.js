@@ -66,6 +66,14 @@ module.exports = {
             confirmations: 0, 
             timeoutBlocks: 200, 
             skipDryRun: false 
+        },
+        moonTest: {
+            provider: () => new HDWalletProvider(mnemonic, `https://rpc.testnet.moonbeam.network`),
+            network_id: 1287, 
+            gas: 5500000, 
+            confirmations: 0, 
+            timeoutBlocks: 200,
+            skipDryRun: true 
         }
     },
 
