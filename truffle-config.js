@@ -56,7 +56,7 @@ module.exports = {
             network_id: 245022926, 
             gas: 5500000, 
             confirmations: 0, 
-            timeoutBlocks: 200, 
+            timeoutBlocks: 200000000, 
             skipDryRun: false 
         },
         neonTest: {
@@ -72,7 +72,7 @@ module.exports = {
             network_id: 1287, 
             gas: 5500000, 
             confirmations: 0, 
-            timeoutBlocks: 200,
+            timeoutBlocks: 200000000,
             skipDryRun: true 
         }
     },
